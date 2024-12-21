@@ -9,7 +9,7 @@ function App() {
         <p className="text-lg text-gray-700">
           Edit <code className="font-mono text-blue-500">src/App.js</code> and save to reload.
         </p>
-        <p className="text-lg text-gray-700">あなたがいないと生きていけない</p>
+        <p className="text-2xl text-gray-700">今来むと　言ひしばかりに　長月の　有明の月を　待ち出でつるかな</p>
         <a
           className="mt-4 text-blue-600 hover:text-blue-800"
           href="https://reactjs.org"
